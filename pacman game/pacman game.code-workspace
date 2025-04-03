@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../java project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pacman game"
+	}
+}
